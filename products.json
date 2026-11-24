@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "name": "Kopi Susu Gula Aren",
+    "category": "Kopi Susu",
+    "price": 18000,
+    "description": "Espresso, susu creamy, dan gula aren asli dengan rasa manis yang pas.",
+    "image": "https://images.unsplash.com/photo-1517701604599-bb29b565090c?auto=format&fit=crop&w=900&q=80",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "name": "Americano",
+    "category": "Kopi Hitam",
+    "price": 15000,
+    "description": "Espresso dengan air, rasa kopi yang bold dan clean.",
+    "image": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=900&q=80",
+    "featured": true
+  },
+  {
+    "id": 3,
+    "name": "Oat Latte",
+    "category": "Kopi Susu",
+    "price": 22000,
+    "description": "Espresso lembut berpadu dengan oat milk.",
+    "image": "https://images.unsplash.com/photo-1561882468-9110e03e0f78?auto=format&fit=crop&w=900&q=80",
+    "featured": true
+  },
+  {
+    "id": 4,
+    "name": "Cappuccino",
+    "category": "Kopi Susu",
+    "price": 20000,
+    "description": "Espresso, susu steamed, dan foam lembut.",
+    "image": "https://images.unsplash.com/photo-1572442388796-11668a67e53d?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 5,
+    "name": "Matcha Latte",
+    "category": "Non-Kopi",
+    "price": 21000,
+    "description": "Matcha pilihan dengan susu segar.",
+    "image": "https://images.unsplash.com/photo-1515823064-d6e0c04616a7?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 6,
+    "name": "Chocolate",
+    "category": "Non-Kopi",
+    "price": 19000,
+    "description": "Minuman cokelat yang rich dan comforting.",
+    "image": "https://images.unsplash.com/photo-1542990253-0b8be9b3c5e0?auto=format&fit=crop&w=900&q=80"
+  }
+]
